@@ -1,0 +1,36 @@
+h1{
+  font-family: monospace, Arial;
+  text-align: center;
+  color: #7a7474;
+  font-size: 50px;
+
+}
+
+h2 {
+  font-family: monospace, Arial;
+  text-align: center;
+  color: #7a7474;
+  font-size: 25px;
+}
+
+.header {
+    background-color: #212020;
+    padding: 150px;
+}
+
+.about {
+  font-family: Verdana;
+}
+
+.skills {
+  background-color: #7a7474;
+  font-family: Arial;
+}
+
+.skills h3 {
+  font-size: 50px;
+}
+
+.skills p, li {
+  font-size: 30px;
+}
